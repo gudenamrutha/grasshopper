@@ -1,0 +1,25 @@
+.hide-toolbar{
+	width:1200px;
+	height:50px;
+	margin-top:10px;
+	margin-left:10px;
+	top:0px;
+	
+}
+.hide-toolbar .menu{
+	color:gray;
+	text-decoration:none
+}
+
+.hide-toolbar .menu:hover{
+	color:black;
+	font-size:20px;
+}
+.hide-toolbar img,.left{
+	float:left;
+	margin:10px;
+}
+.hide-toolbar .right{
+	float:right;
+	margin:10px;
+}

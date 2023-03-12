@@ -1,0 +1,13 @@
+.body{
+	width:75%;
+	padding:50px;
+	margin-left:100px;
+	line-height:1.6;
+}
+body{
+	background-image:url('../images/background.jpg');
+}
+.answer{
+	font-size:20px;
+	font-weight:510;
+}

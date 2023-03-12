@@ -1,0 +1,75 @@
+body{
+	background-image:url('../images/background.jpg');
+}
+.whatcode,.howcode{
+	width:40%;
+	height:400px;
+	margin:50px;
+	line-height:1.6;
+	float:left;
+}
+.whatcode h2{
+	font-size:26px;
+}
+.howcode h2{
+	font-size:26px;
+}
+.whatcode p{
+	font-size:20px;
+}
+.howcode p{
+	font-size:20px;
+}
+.text{
+	width:50%;
+	margin:10px;
+	margin-left:70px;
+	line-height:1.6;
+	float:left;
+	padding:20px;
+	
+}
+.img{
+	width:30%;
+	margin:10px;
+	float:right;
+	padding:20px;
+	
+}
+.text h2{
+	font-size:26px;
+}
+.text p{
+	font-size:20px;
+}
+.text-o{
+	width:50%;
+	margin:10px;
+	margin-left:70px;
+	line-height:1.6;
+	float:right;
+	padding:20px;
+	
+}
+.img-o{
+	width:30%;
+	margin:10px;
+	margin-left:60px;
+	float:left;
+	padding:20px;
+	
+}
+.text-o h2{
+	font-size:26px;
+}
+.text-o p{
+	font-size:20px;
+}
+.textNimg{
+	height:300px;
+	margin-top:500px;
+}
+.textNimg2{
+	height:300px;
+	margin-top:50px;
+}
